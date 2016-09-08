@@ -23,5 +23,5 @@ Project/idea :
 Started/Finished:
 
 - Attributes Based Access Control library [github](https://github.com/Kilix/php-abac)
-- Versionning file for matelsmith's build process (Only build the changed files / layouts) [github](https://github.com/Kilix/metalsmith-revision)
+- Versionning file for metalsmith's build process (Only build the changed files / layouts) [github](https://github.com/Kilix/metalsmith-revision)
 - Our Blog [github](https://github.com/Kilix/Kilix.github.io) / [site](http://blog.kilix.fr/)

@@ -8,7 +8,7 @@ Project/idea :
 	- Api: Centry (Like Sentry but free and simpler)
 
 - Lib: 
-	- Reprise du projet metalsmith-prismic
+	- Reprise du projet metalsmith-prismic [github](https://github.com/mbanting/metalsmith-prismic)
 - App:
 	- CRA / Planning
 	- Liste des employés Extia

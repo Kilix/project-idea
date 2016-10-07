@@ -11,7 +11,6 @@ Project/idea :
 	- Reprise du projet metalsmith-prismic [github](https://github.com/mbanting/metalsmith-prismic)
 - App:
 	- CRA / Planning
-	- Liste des employés Extia
 	- Storymap builder ( featuresmap )
 - Site:
 	- Kilix
@@ -24,4 +23,5 @@ Started/Finished:
 
 - Attributes Based Access Control library [github](https://github.com/Kilix/php-abac)
 - Versionning file for metalsmith's build process (Only build the changed files / layouts) [github](https://github.com/Kilix/metalsmith-revision)
+- Liste des employés Extia
 - Our Blog [github](https://github.com/Kilix/Kilix.github.io) / [site](http://blog.kilix.fr/)

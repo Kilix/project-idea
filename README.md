@@ -5,7 +5,7 @@ Project/idea :
 - Api: 
 	- Dashboard TV Api (Extia Tv, ...)
 	- Api/App: Générateur de doc API (testeur, RAML, ...)
-	- Api: Centry (Like Sentry but free and simpler)
+	- Api: Heimlog
 
 - Lib: 
 	- Reprise du projet metalsmith-prismic [github](https://github.com/mbanting/metalsmith-prismic)
